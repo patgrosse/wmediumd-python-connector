@@ -1,0 +1,7 @@
+# pycharm
+.idea
+
+# python setup
+build
+dist
+wmediumd_python_connector.egg-info
